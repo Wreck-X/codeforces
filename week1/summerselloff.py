@@ -40,4 +40,4 @@ for i in dict:
         result.append(dict[i][0])
     if dict[i][1] == dict[i][0]:
         result.append(dict[i][0])
-print(sum(result))
+print(result)
